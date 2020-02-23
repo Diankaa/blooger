@@ -1,2 +1,2 @@
 # blooger
-Technologies: HTML5, SCSS, uery, AOS
+Technologies: HTML5, SCSS, jQuery, AOS
